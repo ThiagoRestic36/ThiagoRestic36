@@ -31,3 +31,6 @@ src="https://github.com/Leitetc/Leitetc/assets/147214226/22d36a59-d957-448b-9b41
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ThiagoRestic36&label=Profile%20views&color=0e75b6&style=flat" alt="lukerocha" />
+</p>
