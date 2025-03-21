@@ -4,7 +4,9 @@
 src="https://github.com/Leitetc/Leitetc/assets/147214226/22d36a59-d957-448b-9b41-ca6f893c3505">
 
 
-<br><br><br><br><br><br><br><br> <!--  quebras de linha para mover o texto para baixo -->
+<br><br> <!--  quebras de linha para mover o texto para baixo -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRestic36&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <div align="left">
 
