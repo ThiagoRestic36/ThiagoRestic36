@@ -1,4 +1,4 @@
-## Oiii, eu sou Thiago Leite. 😜Residencia em Testes de Software 🚀💻!
+## Oiii, eu sou Thiago Leite.😜 Residencia em Testes de Software 🚀💻!
 
 <img align="right" width="330px" height="auto" style="margin-top:-20px" 
 src="https://github.com/Leitetc/Leitetc/assets/147214226/22d36a59-d957-448b-9b41-ca6f893c3505">
