@@ -29,3 +29,4 @@ src="https://github.com/Leitetc/Leitetc/assets/147214226/22d36a59-d957-448b-9b41
   
 </div>
 
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
